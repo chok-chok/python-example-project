@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from typing import Union
-from src.helloworld import msg
+from helloworld import msg
 
 app = FastAPI()
 
