@@ -1,1 +1,1 @@
-app = "helloworld"
+msg = "helloworld"
