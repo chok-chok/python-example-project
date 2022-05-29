@@ -24,3 +24,5 @@ Before commiting the code, run the following command:
 ```
   black ./src
 ```
+
+The source code will be re-formatted by Black's sensible default config
