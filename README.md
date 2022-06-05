@@ -4,6 +4,18 @@ Python api example project
 #### 1. Pre-requisites
 - Ensure [the poetry is installed](https://python-poetry.org/docs/#installation)
 - Check venv path of poetry by running `poetry env info` 
+```
+Virtualenv
+Python:         3.8.10
+Implementation: CPython
+Path:           /home/koelkast/.cache/pypoetry/virtualenvs/python-api-example-R7RR5aY2-py3.8
+Valid:          True
+
+System
+Platform: linux
+OS:       posix
+Python:   /usr
+```
 - Copy the venv path and add it to your Python intepreter path 
 
 #### 2. Install dependencies
