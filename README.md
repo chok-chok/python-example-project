@@ -16,7 +16,7 @@ Platform: linux
 OS:       posix
 Python:   /usr
 ```
-- Copy the venv path and add it to your Python intepreter path 
+- Copy the Virtualenv path and add it to your Python intepreter path 
 
 #### 2. Install dependencies
 ```
